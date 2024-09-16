@@ -1,0 +1,6 @@
+groq
+pinecone-client
+langchain-community
+langchain-pinecone
+tiktoken
+sentence-transformers
