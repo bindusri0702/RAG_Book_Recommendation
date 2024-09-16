@@ -2,15 +2,6 @@
 
 This project implements a book recommendation system using Retrieval-Augmented Generation (RAG) architecture. The model is built with the Groq API and LangChain, leveraging Amazon books data to provide personalized book recommendations. The RAG model combines the strengths of retrieval and generation, allowing it to generate contextually relevant recommendations based on user queries.
 
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [System Requirements](#system-requirements)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
-
 ## Installation
 
 To set up the project locally, follow these steps:
