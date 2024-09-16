@@ -4,7 +4,7 @@ This project implements a book recommendation system using Retrieval-Augmented G
 
 ## Data
 
-The model uses Amazon books data from [Kaggle](https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews?select=books_data.csv). It contains metdata of book and reviews tables joined by `Tilte` column. The data has been cleaned by dropping and replacing relevant Nan values. Converting to the required datatypes based on the column information. And finally aggregating customers reviews data by transforming columns using mean and concatenation processes. Final data used is present in `transformed_df.csv`.
+The model uses Amazon books data from [Kaggle](https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews?select=books_data.csv). It contains metdata of book and reviews tables joined by `Tilte` column. The data has been cleaned by dropping and replacing relevant Nan values. Converting to the required datatypes based on the column information. And finally aggregating customers reviews data by transforming columns using mean and concatenation processes.
 
 ## Installation
 
