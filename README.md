@@ -1,6 +1,6 @@
 # Book Recommendation Model using RAG
 
-This project implements a book recommendation system using Retrieval-Augmented Generation (RAG) architecture. The model is built with the Groq API and LangChain, leveraging Amazon books data to provide personalized book recommendations. The RAG model combines the strengths of retrieval and generation, allowing it to generate contextually relevant recommendations based on user queries.
+This project implements a book recommendation system using Retrieval-Augmented Generation (RAG) architecture. The model is built with the Groq API, PineCone Vector Database and LangChain, leveraging Amazon books data to provide personalized book recommendations. The RAG model combines the strengths of retrieval and generation, allowing it to generate contextually relevant recommendations based on user queries.
 
 ## Data
 
@@ -29,6 +29,8 @@ To set up the project locally, follow these steps:
 
    ```plaintext
    GROQ_API_KEY="your_groq_api_key"
+   PINECONE_API_KEY = "your_pinecone_api_key"
+   HUGGINGFACE_TOKEN = "your_huggingface_token" # for Mistral AI usage
    ```
 
 ## Usage
