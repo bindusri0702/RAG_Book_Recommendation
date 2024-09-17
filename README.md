@@ -14,7 +14,7 @@ To set up the project locally, follow these steps:
 
    ```bash
    git clone https://github.com/bindusri0702/RAG_Book_Recommendation.git
-   cd book-recommendation-rag
+   cd RAG_Book_Recommendation
    ```
 
 2. **Install required packages:**
