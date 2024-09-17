@@ -13,7 +13,7 @@ To set up the project locally, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/book-recommendation-rag.git
+   git clone https://github.com/bindusri0702/RAG_Book_Recommendation.git
    cd book-recommendation-rag
    ```
 
